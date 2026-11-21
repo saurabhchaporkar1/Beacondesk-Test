@@ -1,0 +1,27 @@
+{
+  "sessionTitle": "Seminar Workshop Session",
+  "callsPaused": false,
+  "participants": {},
+  "calls": [],
+  "facilitators": {
+    "fac-1": {
+      "id": "fac-1",
+      "name": "Facilitator 1",
+      "online": false,
+      "alertsEnabled": false
+    },
+    "fac-2": {
+      "id": "fac-2",
+      "name": "Facilitator 2",
+      "online": false,
+      "alertsEnabled": false
+    },
+    "fac-3": {
+      "id": "fac-3",
+      "name": "Facilitator 3",
+      "online": false,
+      "alertsEnabled": false
+    }
+  },
+  "pushSubscriptions": []
+}

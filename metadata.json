@@ -1,0 +1,6 @@
+{
+  "name": "BeaconDesk",
+  "description": "Real-time seminar participant call desk and shared multi-facilitator notification dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
